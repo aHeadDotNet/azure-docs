@@ -46,6 +46,7 @@ The following services are currently supported for Customer Lockbox for Microsof
 - Azure Load Testing (CloudNative Testing)
 - Azure Logic Apps
 - Azure Monitor (Log Analytics)
+- Azure OpenAI
 - Azure Red Hat OpenShift
 - Azure Spring Apps
 - Azure SQL Database
@@ -58,7 +59,7 @@ The following services are currently supported for Customer Lockbox for Microsof
 - ElasticSan
 - Kusto (Dashboards)
 - Microsoft Azure Attestation
-- OpenAI
+- Microsoft Fabric
 - Spring Cloud
 - Unified Vision Service
 - Virtual Machines in Azure
